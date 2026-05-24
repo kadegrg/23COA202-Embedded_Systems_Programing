@@ -1,6 +1,6 @@
 # 23COA202 Embedded Systems Programming Coursework
 
-This repository contains my coursework submission for **23COA202 Embedded Systems Programming** at **Loughborough University**.
+This repository contains my coursework submission for **23COA202 Embedded Systems Programming** at **Loughborough University**, Completed in Semester 1, Year 1.
 
 **Final mark:** 86/100
 
